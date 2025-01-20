@@ -44,9 +44,9 @@ This repository contains a Python-based GUI application that displays weather in
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/c1886e1d-1780-483e-85d0-a6b0b0b4f1aa" alt="weatherapp1" width="450">
+<img src="https://github.com/user-attachments/assets/c1886e1d-1780-483e-85d0-a6b0b0b4f1aa" alt="weatherapp1" width="390">
 
-<img src="https://github.com/user-attachments/assets/90a3430b-d2d2-42fb-930e-aa776bc47805" alt="weatherapp2" width="450">
+<img src="https://github.com/user-attachments/assets/90a3430b-d2d2-42fb-930e-aa776bc47805" alt="weatherapp2" width="390">
 
 
 ---
